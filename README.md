@@ -1,0 +1,2 @@
+# INHERITENS
+all programs
